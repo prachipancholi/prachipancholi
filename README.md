@@ -1,19 +1,19 @@
-<h1 align="center">Hello 👋, I'm Prachi Pancholi</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<img src="https://github.com/prachipancholi/prachipancholi/blob/main/LinkedinBAckcover.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachipancholi&label=Profile%20views&color=0e75b6&style=flat" alt="prachipancholi" /> </p>
 
-- 🔭 I’m currently pursuing **BE in Computer Science and Engineering**
+- 🔭 *I’m currently pursuing* **BE in Computer Science and Engineering**
 
-- 🌱 I’m currently learning **AI ML**
+- 🌱 *I’m currently learning* **AI ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prachipancholi](https://github.com/prachipancholi)
+- 👨‍💻 *All of my projects are available at* [https://github.com/prachipancholi](https://github.com/prachipancholi)
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Computer Vision**
+- 💬 *Ask me about* **Machine Learning, Artificial Intelligence, Computer Vision**
 
-- 📫 How to reach me **prachipancholi06@gmail.com**
+- 📫 *How to reach me* **prachipancholi06@gmail.com**
 
-- ⚡ Fun fact **I love to sing, but i don't have so good voice**
+- ⚡ *Fun fact* **I love to sing, but I am not a nightangle(not even close to it)**
+-  ***I believe in learning and implementing, I like to innovate things and make things easy for humankind, hence you can find me engrossed in my own thoughts.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
