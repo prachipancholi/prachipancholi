@@ -4,11 +4,11 @@
 
 - 🔭 *I’m currently pursuing* **BE in Computer Science and Engineering**
 
-- 🌱 *I’m currently learning* **AI ML**
+- 🌱 *I work in **MERN** stack
 
 - 👨‍💻 *All of my projects are available at* [https://github.com/prachipancholi](https://github.com/prachipancholi)
 
-- 💬 *Ask me about* **Machine Learning, Artificial Intelligence, Computer Vision**
+- 💬 *Ask me about* **MERN stack, Shell Scripting**
 
 - 📫 *How to reach me* **prachipancholi06@gmail.com**
 
